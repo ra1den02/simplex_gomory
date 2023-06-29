@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplex_gomory", "simplex_gomory.csproj", "{6A478CD3-6F95-43AE-BA1B-E0D1ADA6DA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A478CD3-6F95-43AE-BA1B-E0D1ADA6DA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A478CD3-6F95-43AE-BA1B-E0D1ADA6DA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A478CD3-6F95-43AE-BA1B-E0D1ADA6DA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A478CD3-6F95-43AE-BA1B-E0D1ADA6DA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E8CE65-5AAE-4E44-94B8-9BF3B2ABB513}
+	EndGlobalSection
+EndGlobal
